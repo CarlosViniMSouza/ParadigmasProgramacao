@@ -47,9 +47,7 @@ Em sistemas reativos a aplicação responde ou REAGE a eventos disparados por in
 
 Atualmente, escalabilidade é um pré-requisito cada vez mais fundamental ao se planejar a arquitetura de um sistema Web, considerando altas exigências por performance, tempo de resposta, processamento de grande quantidade de requisições simultaneamente, acesso de diversos dispositivos, dentre outras características. E é aí que entra a programação reativa, juntamente com outros conceitos como microservice, computação em nuvem, etc.
 
-E para se definir e padronizar o conceito de sistemas reativos, foi criado o Manifesto Reativo, com alguns princípios referentes a este modo de projetar as aplicações:
-
-[The Reactive Manifest (in PT-BR)](https://www.reactivemanifesto.org/pt-BR)
+E para se definir e padronizar o conceito de sistemas reativos, foi criado o Manifesto Reativo, com alguns princípios referentes a este modo de projetar as aplicações: [The Reactive Manifest (in PT-BR)](https://www.reactivemanifesto.org/pt-BR)
 
 Basicamente, os sistemas reativos precisam atender a quatro principais características: elasticidade, resiliência, responsividade e ser orientado a mensagens.
 
