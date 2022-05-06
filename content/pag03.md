@@ -90,4 +90,12 @@ Dentro do fluxo do código, sempre que é preciso desempenhar uma determinada ta
 
 ### Natural
 
-A modelagem de software orientada a objetos aproxima o software do mundo real, tornando a engenharia de software uma questão de relacionar as entidades do mundo real com as ferramentas das quais o desenvolvedor dispõe na linguagem de programação escolhida. 
+A modelagem de software orientada a objetos aproxima o software do mundo real, tornando a engenharia de software uma questão de relacionar as entidades do mundo real com as ferramentas das quais o desenvolvedor dispõe na linguagem de programação escolhida.
+
+## Conclusão
+
+Hoje, entendemos o que é e quais as vantagens de usar a POO para criar sistemas mais complexos.
+
+Depois de se aprofundar no assunto, uma boa pedida é iniciar seus estudos em padrões de projetos, que são abordagens mais especializadas para a engenharia de sistemas complexos. 
+
+Os padrões de projetos incluem boas práticas aceitas amplamente pela comunidade de desenvolvedores de software. Mas este é assunto para um próximo dia!
