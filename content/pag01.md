@@ -2,10 +2,7 @@
 
 Para se entender o que é programação imperativa, vamos primeiramente voltar ao significado original deste termo na nossa amada, querida e difícil língua portuguesa:
 
-```
-Imperativo: que acentua o caráter de mando, de autoridade, 
-ou que exprime uma ordem; autoritário.
-```
+`Imperativo: que acentua o caráter de mando, de autoridade, ou que exprime uma ordem; autoritário.`
 
 Então, imperatividade dá a ideia de dar ordens ou se dizer com todas as letras o que se deve fazer a alguém. E pode-se dizer que programação imperativa possui ideia semelhante.
 
