@@ -12,4 +12,4 @@
 
 ## Outros conteudos 
 
-1. (Em breve ...)
+1. [Conceitos de POO](http://linhadecodigo.com.br/artigo/506/programacao-orientada-a-objetos.aspx)

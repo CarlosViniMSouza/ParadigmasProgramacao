@@ -1,8 +1,9 @@
 1 - Herança múltipla – POO
 
-Herança múltipla, em orientação a objetos, é o conceito de herança de duas ou mais classes. Ela é implementada nas linguagens de programação C++ e em Python, por exemplo. A linguagem Java possui apenas herança simples (uma classe possui no máximo uma classe pai), mas permite que uma classe implemente várias interfaces.
+Herança múltipla, em orientação a objetos, é o conceito de herança de duas ou mais classes. A linguagem Java possui apenas herança simples (uma classe possui no máximo uma classe pai), mas permite que uma classe implemente várias interfaces.
 
 O uso indiscriminado desta característica pode levar a uma codificação confusa que dificultaria a manutenção do código.
+
 
 2 - Modularização - POO
 
@@ -10,9 +11,11 @@ Em programas bem modularizados, cada modulo representa uma abstração existente
 
 Além de resolver problemas complexos facilita o entendimento dos programas e viabiliza o reuso de códigos.
 
+
 3 - Encapsulamento - POO
 
 A todo o momento estamos trabalhando com códigos encapsulados. Como por exemplo, o uso das propriedades e métodos de um determinado componente, Não podemos ver como foi implementado. E um exemplo mais específico: a biblioteca do C++ "iostream" - nós a utilizamos constantemente, mas não sabemos como é o código elaborado por "debaixo dos panos"!
+
 
 4 - Polimorfismo - POO
 
@@ -21,5 +24,4 @@ A todo o momento estamos trabalhando com códigos encapsulados. Como por exemplo
 Podemos por exemplo tratar o objeto Funcionário como sendo o objeto Pessoa, pois o objeto Funcionário herda todos as propriedades e métodos do objeto pessoa. O contrário não pode ser feito, pois o objeto Funcionário possui características que o objeto pessoa não tem.
 
 Dessa forma quando se ouve falar de polimorfismo se trata de que um objeto pode se comportar como se fosse outro objeto.
-
-LINK: http://linhadecodigo.com.br/artigo/506/programacao-orientada-a-objetos.aspx
+ 
