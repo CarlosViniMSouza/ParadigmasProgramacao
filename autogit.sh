@@ -1,4 +1,4 @@
 git add .
-git commit -m "conceitos-poo-resumidos.txt -> add"
+git commit -m "atividades -> add"
 git push -u origin main
 git status
